@@ -6,14 +6,7 @@ author:
 - name: Dana Smith (Data Analyst)
 - name: Paola Vercesi (Data Analyst)
 - name: Denise Earle (Project Supervisor)
-output:
-  html_document:
-    df_print: paged
-    number_sections: true
-    toc: true
-    toc_float: true
-  pdf_document: default
-  word_document: default
+output: github_document
 ---
 
 
